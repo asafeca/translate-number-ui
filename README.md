@@ -1,4 +1,4 @@
-# number2text
+# Translating numbers to text, 
 
 A new Flutter project.
 
